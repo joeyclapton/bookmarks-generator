@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-form": "^0.0.3",
     "@radix-ui/react-popover": "1.0.6",
     "@types/node": "20.4.5",
     "@types/react": "18.2.17",
